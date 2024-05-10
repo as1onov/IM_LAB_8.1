@@ -1,0 +1,20 @@
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.1.YesNo\bin\Debug\Lab8.1.YesNo.exe.config
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.1.YesNo\bin\Debug\Lab8.1.YesNo.exe
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.1.YesNo\bin\Debug\Lab8.1.YesNo.pdb
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.1.YesNo\obj\Debug\Lab8.1.YesNo.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.1.YesNo\obj\Debug\Lab8._1.YesNo.MainForm.resources
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.1.YesNo\obj\Debug\Lab8._1.YesNo.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.1.YesNo\obj\Debug\Lab8.1.YesNo.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.1.YesNo\obj\Debug\Lab8.1.YesNo.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.1.YesNo\obj\Debug\Lab8.1.YesNo.exe
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.1.YesNo\obj\Debug\Lab8.1.YesNo.pdb
+C:\Users\umid\source\repos\Lab8.1.YesNo\bin\Debug\Lab8.1.YesNo.exe.config
+C:\Users\umid\source\repos\Lab8.1.YesNo\bin\Debug\Lab8.1.YesNo.exe
+C:\Users\umid\source\repos\Lab8.1.YesNo\bin\Debug\Lab8.1.YesNo.pdb
+C:\Users\umid\source\repos\Lab8.1.YesNo\obj\Debug\Lab8.1.YesNo.csproj.AssemblyReference.cache
+C:\Users\umid\source\repos\Lab8.1.YesNo\obj\Debug\Lab8._1.YesNo.MainForm.resources
+C:\Users\umid\source\repos\Lab8.1.YesNo\obj\Debug\Lab8._1.YesNo.Properties.Resources.resources
+C:\Users\umid\source\repos\Lab8.1.YesNo\obj\Debug\Lab8.1.YesNo.csproj.GenerateResource.cache
+C:\Users\umid\source\repos\Lab8.1.YesNo\obj\Debug\Lab8.1.YesNo.csproj.CoreCompileInputs.cache
+C:\Users\umid\source\repos\Lab8.1.YesNo\obj\Debug\Lab8.1.YesNo.exe
+C:\Users\umid\source\repos\Lab8.1.YesNo\obj\Debug\Lab8.1.YesNo.pdb
